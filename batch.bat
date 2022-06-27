@@ -1,2 +1,2 @@
-echo welcome to zenkins
+echo welcome to Github Action
 
